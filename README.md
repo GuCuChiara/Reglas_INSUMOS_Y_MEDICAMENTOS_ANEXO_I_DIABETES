@@ -3,7 +3,7 @@
 
 ## Página Web de consulta para auditoría médica en Diabetes.
 
-* Se desarrolló teniendo en cuenta la información del ANEXO I de Diabetes (Normas de Provisión de Medicamentos e Insumos para personas con Diabetes: https://www.boletinoficial.gob.ar/detalleAviso/primera/327710/20250701)
+* Se desarrolló teniendo en cuenta la información del ANEXO I de Diabetes (Normas de Provisión de Medicamentos e Insumos para personas con Diabetes en Argentina: https://www.boletinoficial.gob.ar/detalleAviso/primera/327710/20250701)
 <img width="1052" height="827" alt="image" src="https://github.com/user-attachments/assets/f457afd4-e186-4635-b054-7930565b5fad" />
 <hr>
 
