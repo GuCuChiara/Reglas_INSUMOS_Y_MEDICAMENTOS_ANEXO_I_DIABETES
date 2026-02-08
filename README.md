@@ -1,4 +1,4 @@
-# Reglas_INSUMOS_Y_MEDICAMENTOS_ANEXO_I_DIABETES:
+# REGLAS DE INSUMOS Y MEDICAMENTOS EN DIABETES:
 <hr>
 
 ## Página Web de consulta para auditoría médica en Diabetes.
